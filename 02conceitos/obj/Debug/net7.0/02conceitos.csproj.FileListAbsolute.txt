@@ -1,0 +1,15 @@
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.csproj.AssemblyReference.cache
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.AssemblyInfoInputs.cache
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.AssemblyInfo.cs
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.csproj.CoreCompileInputs.cache
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\bin\Debug\net7.0\02conceitos.exe
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\bin\Debug\net7.0\02conceitos.deps.json
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\bin\Debug\net7.0\02conceitos.runtimeconfig.json
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\bin\Debug\net7.0\02conceitos.dll
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\bin\Debug\net7.0\02conceitos.pdb
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.dll
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\refint\02conceitos.dll
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.pdb
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\02conceitos.genruntimeconfig.cache
+C:\Users\ALVARO\Desktop\OrientacaoAobjetos\02conceitos\obj\Debug\net7.0\ref\02conceitos.dll
